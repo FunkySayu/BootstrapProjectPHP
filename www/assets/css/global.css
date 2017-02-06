@@ -1,0 +1,26 @@
+/**
+ * @file global.css
+ * @author Axel Martin <axel.martin@eisti.fr>
+ * @brief Gestion de l'affichage générale du site
+ * @version 0.1
+ * @date 2014-11-18
+ */
+
+
+/* Global setup */
+
+
+body {
+    height: 100%;
+    padding-top: 80px;
+
+    background-image: url("assets/images/background.png");
+    background-position: 0 -150px;
+    background-repeat: no-repeat;
+}
+
+
+.main-wrapper {
+    background-color: white;
+}
+
